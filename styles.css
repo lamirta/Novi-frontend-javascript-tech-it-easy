@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+/*h4 {*/
+/*    color: green;*/
+/*}*/
+
+#result-color {
+    color: green;
+}
+
+#output-color {
+    color: blue;
+}
+
+#currentStock-color {
+    color: red;
+}
+
+#containerCuatro {
+    color: #545962;
+}
+
+button {
+    color: dodgerblue;
+    border-color: black;
+    background: bisque;
+    margin: 40px;
+}
